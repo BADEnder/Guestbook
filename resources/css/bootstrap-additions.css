@@ -1,0 +1,17 @@
+
+body::before {
+    display:block;
+    content: "" ;
+    height: 70px;
+    
+} 
+
+
+.counting_num_graph {
+    width:50%;
+}
+@media(max-width:996px){
+    .counting_num_graph{
+        width:100%;
+    }
+}
