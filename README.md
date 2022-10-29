@@ -7,11 +7,13 @@
 <br>
 
 ## How to Install this application
-First, you have got to have these software installed in you computer:
+First, you got to have these software installed in you computer:
 1. PHP
 2. MySQL
 3. node.js
 4. npm
+5. nginx
+6. composer
 
 Second, git clone this app to your local machine.
 
@@ -31,7 +33,7 @@ Now, you can visit the website after click the url in your terminal.
 
 
 <br>
----
+<!-- ---
 ### If you do not want to deploy by yourself, you can visit [this website](http://172.104.70.118/)  to see what it looks like.
 
 And if you don't want to sign-up for this website, you can use this account to log-in:
@@ -39,4 +41,4 @@ And if you don't want to sign-up for this website, you can use this account to l
 1. user: testuser
 2. password: test123 
 
----
+--- -->
